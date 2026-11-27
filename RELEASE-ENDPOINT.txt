@@ -1,0 +1,2 @@
+This repository is the release and update distribution endpoint for Mobile Inventory Manager.
+It intentionally contains no application source code. Downloads are under Releases.
